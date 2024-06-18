@@ -186,14 +186,20 @@
 
 <details>
   <summary>Frontend</summary>
+    
+  ### Clone Repository
+프론트엔드 레포지토리를 클론합니다.
 
+    git clone https://github.com/DreamVault-2024/dreamvalut-frontend.git
+    cd ./dreamvault-frontend
+        
   ### Install Packages
-  첫 번째로 패키지 설치를 합니다.
+패키지 설치를 합니다.
 
       yarn install
 
   ### Add Environment Files
-  두 번째로 환경 파일을 생성해 줍니다.
+  환경 파일을 생성해 줍니다.
 
   #### .env
   
