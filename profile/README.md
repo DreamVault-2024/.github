@@ -270,9 +270,9 @@
   <tr>
     <td>Leader, Backend, DevOps</td>
     <td>Backend, DevOps</td>
-    <td>Frontend</td>
-    <td>Frontend</td>
-    <td>Frontend</td>
+    <td>Frontend, Design</td>
+    <td>Frontend, Design</td>
+    <td>Frontend, Design</td>
   </tr>
 </table>
 
