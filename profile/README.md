@@ -25,7 +25,7 @@
     <tbody>
     <tr>
          <td width="600" align="center">
-            <img width="300" alt="image" src="https://github.com/DreamVault-2024/.github/assets/133188752/b7b8d510-4afe-46c4-98e0-f48df184394b">
+            <img alt="image" src="https://github.com/user-attachments/assets/31f62f5d-b55e-4b57-af90-e26a17d4f6ad">
         </td>
         <td width="600" align="center">
             <div align="left">
